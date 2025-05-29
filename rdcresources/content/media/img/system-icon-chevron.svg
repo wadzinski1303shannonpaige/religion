@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="7px" height="11px" viewBox="0 0 7 11" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>Path</title>
+    <g id="Locator---Almost-Final" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Open---Appt-Recommended" transform="translate(-1157.000000, -401.000000)" fill="#117788" fill-rule="nonzero">
+            <g id="Group-8-Copy" transform="translate(226.000000, 374.000000)">
+                <g id="Group-11-Copy" transform="translate(21.000000, 17.000000)">
+                    <g id="Group-2" transform="translate(733.000000, 1.000000)">
+                        <path d="M183.322183,11.3221825 C183.751759,10.8926058 184.448241,10.8926058 184.877817,11.3221825 C185.27671,11.7210752 185.305202,12.3501051 184.963294,12.7818746 L184.877817,12.8778175 L180.877817,16.8778175 C180.478925,17.2767101 179.849895,17.3052025 179.418125,16.9632945 L179.322183,16.8778175 L175.322183,12.8778175 C174.892606,12.4482407 174.892606,11.7517593 175.322183,11.3221825 C175.721075,10.9232899 176.350105,10.8947975 176.781875,11.2367055 L176.877817,11.3221825 L180.1,14.545 L183.322183,11.3221825 Z" id="Path" transform="translate(180.100000, 14.100000) rotate(-90.000000) translate(-180.100000, -14.100000) "></path>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
